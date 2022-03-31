@@ -19,6 +19,7 @@ setuptools.setup(
     install_requires=[
         "xarray",
         "scipy",
+        "holoviews"
     ],
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
